@@ -44,8 +44,6 @@ Note: Our main model is under './model/GeleNet_models.py' (PVT-v2-b2 backbone).
 
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
 
-# [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
-
 # Citation
 
 If you use this code or the released results, please cite our paper:
