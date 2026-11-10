@@ -69,4 +69,4 @@ This repository follows the training / testing protocol and datasets of GeleNet 
 
 If you encounter any problems with the code, want to report bugs, etc.
 
-Please contact me at <your_email@example.com>.
+Please contact me at jhzhou22@mails.jlu.edu.cn.
