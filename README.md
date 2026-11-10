@@ -50,10 +50,7 @@ If you use this code or the released results, please cite our paper:
 
 ```bibtex
 @ARTICLE{CoSMoNet,
-        author  = {<please fill in>},
         title   = {CoSMoNet: Optical Remote Sensing Saliency Detection via Count-Adaptive Sparse Transfer and Moment-Guided Reconstruction},
-        journal = {<please fill in>},
-        year    = {<please fill in>},
         }
 ```
 
